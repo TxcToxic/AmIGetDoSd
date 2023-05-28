@@ -1,0 +1,12 @@
+{
+  "wurl": "https://discord.com/api/webhooks/ID/TOKEN",
+  "ips": [
+    "IP 1",
+    "IP 2",
+    "IP 3",
+    "...", 
+    "IP 15"
+  ],
+  "jp1": "message.json",
+  "jp2": "message2.json"
+}

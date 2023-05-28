@@ -1,0 +1,20 @@
+{
+  "content": "<@&1094599552721485894>",
+  "username": "Server Status",
+  "embeds": [
+    {
+      "title": "Server Offline",
+      "description": "{server} went offline",
+      "color": 16711680,
+      "footer": {
+        "text": "by -TOXIC-#1835 (CFT Development)"
+      },
+      "fields": [
+        {
+          "name": "Time:",
+          "value": "{time}"
+        }
+      ]
+    }
+  ]
+}
